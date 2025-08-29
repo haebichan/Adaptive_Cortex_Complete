@@ -1,0 +1,9 @@
+{
+  "account"   : "...",
+  "user"      : "...",
+  "password"  : "...",
+  "role"      : "...",
+  "warehouse" : "...",
+  "database"  : "ADAPTIVE_LLM_DB",
+  "schema"    : "AI_ROUTER"
+}
